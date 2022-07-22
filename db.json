@@ -1,0 +1,99 @@
+{
+  "posts": [
+    {
+      "title": "new title",
+      "body": "new body",
+      "latest": false,
+      "oldest": true,
+      "likes": true,
+      "dislikes": false,
+      "id": 6
+    },
+    {
+      "title": "one new title",
+      "body": "one new body",
+      "latest": false,
+      "oldest": true,
+      "likes": true,
+      "dislikes": false,
+      "id": 7
+    },
+    {
+      "title": "ReactJs",
+      "body": "Training",
+      "latest": false,
+      "oldest": true,
+      "likes": true,
+      "dislikes": false,
+      "id": 8
+    },
+    {
+      "title": "Angular Training",
+      "body": "will start next month",
+      "latest": false,
+      "oldest": true,
+      "likes": true,
+      "dislikes": false,
+      "id": 9
+    },
+    {
+      "title": "Post on 22 July",
+      "body": "This is React Routing",
+      "latest": false,
+      "oldest": true,
+      "likes": false,
+      "dislikes": true,
+      "id": 10
+    },
+    {
+      "title": "checking latest post",
+      "body": "new post added",
+      "latest": false,
+      "oldest": true,
+      "likes": true,
+      "dislikes": false,
+      "id": 11
+    },
+    {
+      "title": "mbm",
+      "body": "mb",
+      "latest": false,
+      "oldest": true,
+      "likes": true,
+      "dislikes": false,
+      "id": 12
+    },
+    {
+      "title": "check back button",
+      "body": "checking",
+      "latest": false,
+      "oldest": true,
+      "likes": true,
+      "dislikes": false,
+      "id": 13
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "admin@gmail.com",
+      "password": "admin1234",
+      "name": "Admin",
+      "role": "Author"
+    },
+    {
+      "id": 2,
+      "email": "guest@gmail.com",
+      "password": "guest1234",
+      "name": "Guest",
+      "role": "Visitor"
+    },
+    {
+      "name": "pankaj",
+      "email": "pankaj@gmail.com",
+      "password": "pankaj123",
+      "role": "Visitor",
+      "id": 3
+    }
+  ]
+}
